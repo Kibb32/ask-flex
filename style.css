@@ -254,3 +254,7 @@ ul {
     font-weight: normal;
     font-size: 150px;
 }
+
+.statistics {
+    background-color: var(--color-yellow);
+}
